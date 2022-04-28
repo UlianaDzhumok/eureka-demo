@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Eureka" target="1.8" />
+      <module name="Eureka" target="11" />
       <module name="netflix-eureka-server" target="11" />
     </bytecodeTargetLevel>
   </component>
