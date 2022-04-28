@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61f70e0e-d3f6-4063-8ce8-159f07c2176b" name="Default Changelist" comment="" />
+    <list default="true" id="61f70e0e-d3f6-4063-8ce8-159f07c2176b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-eureka-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netflix-eureka-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/tus/netfilxeurekaserver/NetflixEurekaServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/netflix-eureka-server-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/netflix-eureka-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -36,6 +56,7 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install" />
+      <command value="mvn package" />
       <command value="mvn clean" />
     </option>
   </component>
@@ -159,22 +180,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1650931431943" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1651157027702">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1651160146672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651157027702" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1651157027702">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651160146672" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1651160146671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651157027702" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1651157027702">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651160146671" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1651160146671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651157027702" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1651157027702">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651160146671" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1651160146672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651157027702" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651160146672" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1650913839682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,9 +224,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="244" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1650850008709" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1650957283697">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1651160146693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1650957283697" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651160146693" />
   </component>
 </project>
